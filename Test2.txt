@@ -1,0 +1,209 @@
+T= 0
+T= 1
+T= 2
+T= 3
+T= 4
+Clientul cu id-ul: 4 timp preluare: 4 timp procesare: 7 timp finalizare: 11
+Clientul cu id-ul : 4 pus in coada 1
+T= 5
+Clientul cu id-ul: 10 timp preluare: 5 timp procesare: 2 timp finalizare: 7
+Clientul cu id-ul : 10 pus in coada 2
+Clientul cu id-ul: 16 timp preluare: 5 timp procesare: 3 timp finalizare: 8
+Clientul cu id-ul : 16 pus in coada 3
+T= 6
+Clientul cu id-ul: 34 timp preluare: 6 timp procesare: 7 timp finalizare: 13
+Clientul cu id-ul : 34 pus in coada 4
+Clientul : 10 a fost servit
+T= 7
+Clientul cu id-ul: 14 timp preluare: 7 timp procesare: 7 timp finalizare: 14
+Clientul cu id-ul : 14 pus in coada 2
+Clientul : 16 a fost servit
+T= 8
+Clientul cu id-ul: 43 timp preluare: 8 timp procesare: 2 timp finalizare: 10
+Clientul cu id-ul : 43 pus in coada 3
+T= 9
+Clientul : 43 a fost servit
+T= 10
+Clientul cu id-ul: 41 timp preluare: 10 timp procesare: 3 timp finalizare: 13
+Clientul cu id-ul : 41 pus in coada 3
+Clientul : 4 a fost servit
+T= 11
+T= 12
+Clientul cu id-ul: 12 timp preluare: 12 timp procesare: 4 timp finalizare: 16
+Clientul cu id-ul : 12 pus in coada 1
+Clientul : 34 a fost servit
+Clientul : 41 a fost servit
+T= 13
+Clientul : 14 a fost servit
+T= 14
+Clientul cu id-ul: 35 timp preluare: 14 timp procesare: 7 timp finalizare: 21
+Clientul cu id-ul : 35 pus in coada 2
+Clientul cu id-ul: 47 timp preluare: 14 timp procesare: 6 timp finalizare: 20
+Clientul cu id-ul : 47 pus in coada 2
+T= 15
+Clientul cu id-ul: 42 timp preluare: 15 timp procesare: 3 timp finalizare: 18
+Clientul cu id-ul : 42 pus in coada 3
+Clientul : 12 a fost servit
+T= 16
+Clientul cu id-ul: 6 timp preluare: 16 timp procesare: 2 timp finalizare: 18
+Clientul cu id-ul : 6 pus in coada 1
+Clientul cu id-ul: 37 timp preluare: 16 timp procesare: 2 timp finalizare: 18
+Clientul cu id-ul : 37 pus in coada 1
+T= 17
+Clientul cu id-ul: 45 timp preluare: 17 timp procesare: 2 timp finalizare: 19
+Clientul cu id-ul : 45 pus in coada 1
+Clientul : 42 a fost servit
+Clientul : 6 a fost servit
+T= 18
+Clientul cu id-ul: 5 timp preluare: 18 timp procesare: 6 timp finalizare: 24
+Clientul cu id-ul : 5 pus in coada 3
+Clientul cu id-ul: 24 timp preluare: 18 timp procesare: 2 timp finalizare: 20
+Clientul cu id-ul : 24 pus in coada 1
+T= 19
+Clientul cu id-ul: 0 timp preluare: 19 timp procesare: 2 timp finalizare: 21
+Clientul cu id-ul : 0 pus in coada 1
+Clientul cu id-ul: 1 timp preluare: 19 timp procesare: 5 timp finalizare: 24
+Clientul cu id-ul : 1 pus in coada 4
+Clientul : 37 a fost servit
+T= 20
+Clientul : 35 a fost servit
+T= 21
+Clientul : 45 a fost servit
+T= 22
+Clientul cu id-ul: 8 timp preluare: 22 timp procesare: 6 timp finalizare: 28
+Clientul cu id-ul : 8 pus in coada 1
+Clientul cu id-ul: 36 timp preluare: 22 timp procesare: 5 timp finalizare: 27
+Clientul cu id-ul : 36 pus in coada 2
+T= 23
+Clientul cu id-ul: 18 timp preluare: 23 timp procesare: 4 timp finalizare: 27
+Clientul cu id-ul : 18 pus in coada 3
+Clientul cu id-ul: 46 timp preluare: 23 timp procesare: 7 timp finalizare: 30
+Clientul cu id-ul : 46 pus in coada 5
+Clientul : 5 a fost servit
+Clientul : 24 a fost servit
+Clientul : 1 a fost servit
+T= 24
+Clientul cu id-ul: 44 timp preluare: 24 timp procesare: 5 timp finalizare: 29
+Clientul cu id-ul : 44 pus in coada 4
+T= 25
+Clientul cu id-ul: 13 timp preluare: 25 timp procesare: 6 timp finalizare: 31
+Clientul cu id-ul : 13 pus in coada 1
+Clientul cu id-ul: 28 timp preluare: 25 timp procesare: 6 timp finalizare: 31
+Clientul cu id-ul : 28 pus in coada 3
+Clientul : 0 a fost servit
+T= 26
+Clientul cu id-ul: 9 timp preluare: 26 timp procesare: 3 timp finalizare: 29
+Clientul cu id-ul : 9 pus in coada 4
+Clientul : 47 a fost servit
+T= 27
+Clientul cu id-ul: 21 timp preluare: 27 timp procesare: 4 timp finalizare: 31
+Clientul cu id-ul : 21 pus in coada 2
+Clientul cu id-ul: 23 timp preluare: 27 timp procesare: 4 timp finalizare: 31
+Clientul cu id-ul : 23 pus in coada 2
+Clientul cu id-ul: 30 timp preluare: 27 timp procesare: 4 timp finalizare: 31
+Clientul cu id-ul : 30 pus in coada 1
+Clientul : 18 a fost servit
+T= 28
+Clientul cu id-ul: 11 timp preluare: 28 timp procesare: 4 timp finalizare: 32
+Clientul cu id-ul : 11 pus in coada 3
+Clientul cu id-ul: 33 timp preluare: 28 timp procesare: 7 timp finalizare: 35
+Clientul cu id-ul : 33 pus in coada 2
+Clientul : 44 a fost servit
+T= 29
+Clientul cu id-ul: 29 timp preluare: 29 timp procesare: 7 timp finalizare: 36
+Clientul cu id-ul : 29 pus in coada 4
+Clientul : 46 a fost servit
+T= 30
+Clientul cu id-ul: 38 timp preluare: 30 timp procesare: 4 timp finalizare: 34
+Clientul cu id-ul : 38 pus in coada 5
+T= 31
+Clientul cu id-ul: 25 timp preluare: 31 timp procesare: 1 timp finalizare: 32
+Clientul cu id-ul : 25 pus in coada 3
+Clientul cu id-ul: 31 timp preluare: 31 timp procesare: 3 timp finalizare: 34
+Clientul cu id-ul : 31 pus in coada 4
+Clientul : 36 a fost servit
+Clientul : 8 a fost servit
+Clientul : 9 a fost servit
+T= 32
+Clientul cu id-ul: 27 timp preluare: 32 timp procesare: 4 timp finalizare: 36
+Clientul cu id-ul : 27 pus in coada 1
+Clientul cu id-ul: 48 timp preluare: 32 timp procesare: 1 timp finalizare: 33
+Clientul cu id-ul : 48 pus in coada 1
+T= 33
+Clientul cu id-ul: 3 timp preluare: 33 timp procesare: 6 timp finalizare: 39
+Clientul cu id-ul : 3 pus in coada 1
+Clientul : 28 a fost servit
+Clientul : 38 a fost servit
+T= 34
+T= 35
+Clientul cu id-ul: 2 timp preluare: 35 timp procesare: 6 timp finalizare: 41
+Clientul cu id-ul : 2 pus in coada 2
+Clientul cu id-ul: 39 timp preluare: 35 timp procesare: 5 timp finalizare: 40
+Clientul cu id-ul : 39 pus in coada 3
+Clientul : 21 a fost servit
+T= 36
+Clientul cu id-ul: 22 timp preluare: 36 timp procesare: 7 timp finalizare: 43
+Clientul cu id-ul : 22 pus in coada 4
+Clientul cu id-ul: 49 timp preluare: 36 timp procesare: 3 timp finalizare: 39
+Clientul cu id-ul : 49 pus in coada 5
+T= 37
+Clientul cu id-ul: 20 timp preluare: 37 timp procesare: 5 timp finalizare: 42
+Clientul cu id-ul : 20 pus in coada 2
+Clientul : 11 a fost servit
+Clientul : 13 a fost servit
+T= 38
+Clientul : 25 a fost servit
+Clientul : 29 a fost servit
+Clientul : 49 a fost servit
+T= 39
+Clientul cu id-ul: 7 timp preluare: 39 timp procesare: 5 timp finalizare: 44
+Clientul cu id-ul : 7 pus in coada 4
+Clientul cu id-ul: 15 timp preluare: 39 timp procesare: 4 timp finalizare: 43
+Clientul cu id-ul : 15 pus in coada 5
+Clientul cu id-ul: 26 timp preluare: 39 timp procesare: 5 timp finalizare: 44
+Clientul cu id-ul : 26 pus in coada 3
+Clientul : 23 a fost servit
+T= 40
+Clientul cu id-ul: 17 timp preluare: 40 timp procesare: 7 timp finalizare: 47
+Clientul cu id-ul : 17 pus in coada 2
+Clientul cu id-ul: 19 timp preluare: 40 timp procesare: 5 timp finalizare: 45
+Clientul cu id-ul : 19 pus in coada 1
+Clientul cu id-ul: 40 timp preluare: 40 timp procesare: 3 timp finalizare: 43
+Clientul cu id-ul : 40 pus in coada 5
+T= 41
+Clientul cu id-ul: 32 timp preluare: 41 timp procesare: 2 timp finalizare: 43
+Clientul cu id-ul : 32 pus in coada 4
+Clientul : 30 a fost servit
+Clientul : 31 a fost servit
+T= 42
+Clientul : 15 a fost servit
+T= 43
+Clientul : 39 a fost servit
+T= 44
+T= 45
+Clientul : 27 a fost servit
+Clientul : 40 a fost servit
+T= 46
+Clientul : 33 a fost servit
+Clientul : 48 a fost servit
+T= 47
+T= 48
+Clientul : 26 a fost servit
+Clientul : 22 a fost servit
+T= 49
+T= 50
+T= 51
+T= 52
+Clientul : 2 a fost servit
+Clientul : 3 a fost servit
+T= 53
+Clientul : 7 a fost servit
+T= 54
+T= 55
+Clientul : 32 a fost servit
+T= 56
+T= 57
+Clientul : 20 a fost servit
+Clientul : 19 a fost servit
+T= 58
+T= 59

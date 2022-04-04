@@ -1,0 +1,72 @@
+T= 0
+T= 1
+T= 2
+T= 3
+T= 4
+T= 5
+T= 6
+T= 7
+T= 8
+T= 9
+T= 10
+T= 11
+T= 12
+T= 13
+T= 14
+T= 15
+Clientul cu id-ul: 1 timp preluare: 15 timp procesare: 2 timp finalizare: 17
+Clientul cu id-ul : 1 pus in coada 1
+T= 16
+T= 17
+Clientul : 1 a fost servit
+T= 18
+T= 19
+Clientul cu id-ul: 0 timp preluare: 19 timp procesare: 4 timp finalizare: 23
+Clientul cu id-ul : 0 pus in coada 1
+T= 20
+T= 21
+T= 22
+Clientul : 0 a fost servit
+T= 23
+T= 24
+Clientul cu id-ul: 2 timp preluare: 24 timp procesare: 3 timp finalizare: 27
+Clientul cu id-ul : 2 pus in coada 1
+T= 25
+T= 26
+Clientul cu id-ul: 3 timp preluare: 26 timp procesare: 3 timp finalizare: 29
+Clientul cu id-ul : 3 pus in coada 2
+Clientul : 2 a fost servit
+T= 27
+T= 28
+Clientul : 3 a fost servit
+T= 29
+T= 30
+T= 31
+T= 32
+T= 33
+T= 34
+T= 35
+T= 36
+T= 37
+T= 38
+T= 39
+T= 40
+T= 41
+T= 42
+T= 43
+T= 44
+T= 45
+T= 46
+T= 47
+T= 48
+T= 49
+T= 50
+T= 51
+T= 52
+T= 53
+T= 54
+T= 55
+T= 56
+T= 57
+T= 58
+T= 59
